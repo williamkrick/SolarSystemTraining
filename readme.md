@@ -9,6 +9,7 @@ Jupiter
 Saturn
 Uranus
 Neptune
+*Pluto
 
 ##Moons
 Lunar (Earth)
